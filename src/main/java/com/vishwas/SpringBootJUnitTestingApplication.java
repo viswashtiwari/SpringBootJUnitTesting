@@ -1,0 +1,13 @@
+package com.vishwas;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringBootJUnitTestingApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringBootJUnitTestingApplication.class, args);
+	}
+
+}
